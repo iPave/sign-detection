@@ -1,0 +1,6 @@
+model_checkpoint_path: "C:\\Users\\bitlg\\PycharmProjects\\object_detection\\venv\\main\\training\\model.ckpt-32315"
+all_model_checkpoint_paths: "C:\\Users\\bitlg\\PycharmProjects\\object_detection\\venv\\main\\training\\model.ckpt-25637"
+all_model_checkpoint_paths: "C:\\Users\\bitlg\\PycharmProjects\\object_detection\\venv\\main\\training\\model.ckpt-27301"
+all_model_checkpoint_paths: "C:\\Users\\bitlg\\PycharmProjects\\object_detection\\venv\\main\\training\\model.ckpt-28968"
+all_model_checkpoint_paths: "C:\\Users\\bitlg\\PycharmProjects\\object_detection\\venv\\main\\training\\model.ckpt-30641"
+all_model_checkpoint_paths: "C:\\Users\\bitlg\\PycharmProjects\\object_detection\\venv\\main\\training\\model.ckpt-32315"
